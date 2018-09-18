@@ -1,6 +1,7 @@
 {
 	"profiles" : [
 		{
+			"id":1,
 			"ContactID":"f476005f-5585-e811-8101-000000000000",
 			"FirstName":"Raun",
 			"LastName":"Hargrove",
@@ -11,6 +12,7 @@
 			"IsEndUser":false
 		},
 		{
+			"id":2,
 			"ContactID":"f476005f-5585-e811-8101-000000000001",
 			"FirstName":"Raun",
 			"LastName":"Hargrove",
