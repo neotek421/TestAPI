@@ -1,10 +1,24 @@
 {
-	"ContactID":"f476005f-5585-e811-8101-000000000000",
-	"FirstName":"Raun",
-	"LastName":"Hargrove",
-	"Email":"rhargrove@seagullscientific.com",
-	"BusinessPhone":"(425) 555-5555",
-	"ApprovedForPortal":true,
-	"AccountID":"a83d07b2-44eb-dd11-ab97-000000000000",
-	"IsEndUser":false
+	"profiles" : [
+		{
+			"ContactID":"f476005f-5585-e811-8101-000000000000",
+			"FirstName":"Raun",
+			"LastName":"Hargrove",
+			"Email":"rhargrove@seagullscientific.com",
+			"BusinessPhone":"(425) 555-5555",
+			"ApprovedForPortal":true,
+			"AccountID":"a83d07b2-44eb-dd11-ab97-000000000000",
+			"IsEndUser":false
+		},
+		{
+			"ContactID":"f476005f-5585-e811-8101-000000000001",
+			"FirstName":"Raun",
+			"LastName":"Hargrove",
+			"Email":"rhargrove2@seagullscientific.com",
+			"BusinessPhone":"(425) 555-5555",
+			"ApprovedForPortal":true,
+			"AccountID":"a83d07b2-44eb-dd11-ab97-000000000001",
+			"IsEndUser":false
+		}
+	]
 }
